@@ -1,0 +1,313 @@
+# Responsible metrics
+
+## Summary
+
+Responsible metrics are principles and practices for using quantitative indicators in research evaluation without substituting simple metrics for expert judgment or local context.
+
+## Canonical Form
+
+- Unit of analysis: evaluation system, indicator, institution, researcher, program, or policy.
+- Typical representation: evaluation framework, audit checklist, or indicator portfolio.
+- Mechanism or measurement target: validity, fairness, transparency, and unintended consequences of metrics.
+- Empirical signature: indicators are contextualized, documented, plural, and paired with qualitative assessment.
+
+## Uses in Science of Science
+
+- Sets guardrails for using citation, h-index, altmetrics, and rankings.
+- Connects science-of-science measurement to policy consequences.
+- Useful as a validation page for any metric-heavy concept in the wiki.
+- Links metric design to [domain-specific SciSci studies](../methods/domain_specific_scisci_studies.md) and [SciSci quasi-experimental policy evaluation](../validations/scisci_quasi_experimental_policy_evaluation.md) when indicators become interventions.
+
+- The Leiden Manifesto residual pass adds [metric-interpretation expertise gap](../validations/metric_interpretation_expertise_gap.md), [quantitative bias-challenge probe](../methods/quantitative_bias_challenge_probe.md), [socioeconomic and cultural context alignment](../methods/socioeconomic_cultural_context_alignment.md), [English-language excellence equation](../mechanisms/english_language_excellence_equation.md), [high-impact gatekeeper topic suppression](../mechanisms/high_impact_gatekeeper_topic_suppression.md), [simple-transparency complexity balance](../validations/simple_transparency_complexity_balance.md), [public scrutiny metric revision](../validations/public_scrutiny_metric_revision.md), [evaluation data-quality budgeting](../methods/evaluation_data_quality_budgeting.md), [research-information-system verification workflow](../methods/research_information_system_verification_workflow.md), [indicator-suite pluralism](../methods/indicator_suite_pluralism.md), [indicator uncertainty disclosure](../validations/indicator_uncertainty_disclosure.md), and [instrument-to-goal metric drift](../mechanisms/instrument_to_goal_metric_drift.md).
+## Operationalization
+
+- Document indicator definitions, data sources, field/year normalization, uncertainty, and limitations.
+- Audit for gaming, coverage bias, demographic/institutional disparities, and target substitution.
+- Use multiple indicators and qualitative context rather than single-score decisions.
+- Convert high-level principles into concrete audit motifs such as [metrics supporting qualitative assessment](../methods/metrics_support_qualitative_assessment.md), [mission-aligned indicator selection](../methods/mission_aligned_indicator_selection.md), [transparent metric construction](../methods/transparent_metric_construction.md), [evaluated-party data verification](../validations/evaluated_party_data_verification.md), [portfolio-based researcher assessment](../methods/portfolio_based_researcher_assessment.md), [indicator false precision](../validations/indicator_false_precision.md), [indicator systemic effects](../mechanisms/indicator_systemic_effects.md), [data-led evaluation inversion](../mechanisms/data_led_evaluation_inversion.md), [metric platform proliferation](../mechanisms/metric_platform_proliferation.md), [global-ranking indicator obsession](../mechanisms/global_ranking_indicator_obsession.md), [h-index threshold assessment misuse](../validations/h_index_threshold_assessment_misuse.md), [impact-factor publication pressure](../mechanisms/impact_factor_publication_pressure.md), [publication-count funding-formula response](../mechanisms/publication_count_funding_formula_response.md), and [indicator lifecycle review](../methods/indicator_lifecycle_review.md).
+- Add contestability checks such as [evaluation-contestation access gap](../validations/evaluation_contestation_access_gap.md) when evaluated researchers need methodological evidence to challenge a metric-based decision.
+- At the researcher-assessment level, connect metric governance to [responsible researcher assessment principles](../methods/responsible_researcher_assessment_principles.md), [responsible indicators for assessing scientists](responsible_indicators_for_assessing_scientists.md), [assessment incentive misalignment](../mechanisms/assessment_incentive_misalignment.md), and [research assessment implementation experiments](../validations/research_assessment_implementation_experiments.md).
+- For author metrics, check source-window, affiliation, and career-stage limits through [Scopus pre-1996 citation truncation](../validations/scopus_pre_1996_citation_truncation.md), [author-metric single-affiliation caveat](../validations/author_metric_single_affiliation_caveat.md), and [early-career author metric sparsity](../validations/early_career_author_metric_sparsity.md).
+
+## Evidence and Validations
+
+- The Leiden Manifesto is a concise anchor for responsible research evaluation principles.
+- Verified full-text evidence from Hicks et al. (2015) gives ten operational principles: use metrics to support qualitative assessment, align indicators with mission, protect locally relevant research, keep metric construction transparent, let evaluated parties verify data, account for field variation, judge individual researchers by portfolios, avoid false precision, anticipate systemic effects, and regularly update indicators.
+- The same full text motivates [evaluation-contestation access gap](../validations/evaluation_contestation_access_gap.md): codified and accessible methodological evidence is needed so researchers can hold evaluators accountable.
+- The same full text also records failure modes that motivate those principles: routine metric-led evaluation, platform/tool proliferation, global-ranking pressure, h-index thresholds, impact-factor publication pressure, and publication-count funding formulas.
+- The individual-researcher principle is split out in [portfolio-based researcher assessment](../methods/portfolio_based_researcher_assessment.md), which connects portfolio review to h-index, database, field, and career-age caveats.
+- Verified full-text evidence from Fortunato et al. (2018) warns that citation-count currencies and prestige hierarchies can shape scientific incentives, evaluation, and inequality.
+- The same review argues that SciSci should broaden performance indicators, model what each indicator captures, and use causal or quasi-experimental evidence before turning descriptive associations into policy.
+- Fortunato et al.'s plural-evaluation claim is split out in [metric pluralism and productive specialization](../mechanisms/metric_pluralism_productive_specialization.md).
+- Fortunato et al.'s warning about one-dimensional citation valuation is now split out as [citation-count currency hierarchy](../mechanisms/citation_count_currency_hierarchy.md).
+- Verified full-text evidence from Clauset et al. (2017) cautions that automated prediction and impact evaluation can create feedback loops, reduce novelty, discourage interdisciplinarity, and raise accountability and fairness problems.
+- The same evidence supports explicit [automated predictive-evaluation safeguards](../validations/automated_predictive_evaluation_safeguards.md) and [lagging-indicator prediction limits](../validations/lagging_indicator_prediction_limits.md) when forecast models use citations, publications, career movement, prizes, or related past-success indicators.
+- Clauset et al. also motivate [feedback-resistant success measures](../methods/feedback_resistant_success_measures.md) and [novel-discovery out-of-distribution limits](../validations/novel_discovery_out_of_distribution_limit.md) as concrete design checks for predictive evaluation.
+- Clauset et al.'s ecosystem framing is now stored in [predictable-discovery selection pressure](../mechanisms/predictable_discovery_selection_pressure.md), [risk-averse scientist selection](../mechanisms/risk_averse_scientist_selection.md), [scientific ecosystem diversity](../mechanisms/scientific_ecosystem_diversity.md), and [active science-policy experimentation](../validations/active_science_policy_experimentation.md).
+- Verified full-text evidence from Wu et al. (2019) shows a concrete metric-divergence case: team size is positively associated with citations but negatively associated with disruption, so single-score evaluation can favor development over disruption.
+- Verified full-text evidence from Funk and Owen-Smith (2017) adds a patent-metric divergence case: [patent importance measure divergence](../validations/patent_importance_measure_divergence.md) shows that forward citations, CD5, and mCD5 capture different constructs, especially when university patent portfolios are evaluated.
+- Verified full-text evidence from Ahmadpoor and Jones (2017) adds a science-technology portfolio guardrail: [distance-based basic-applied typology](../methods/distance_based_basic_applied_typology.md) can quantify proximity to patents, but should not turn basic/applied distance into a universal quality score.
+- Verified full-text evidence from Park et al. (2023) adds a trend-level evaluation guardrail: average disruption can decline while the absolute number of highly disruptive works remains stable, so shares, counts, and tails should not be collapsed into one score.
+- Verified full-text evidence from Waltman (2016) adds a technical guardrail: citation indicators often lack explicit theoretical foundations, and their assumptions about normalization, skewness, and what is being measured should be documented before evaluation use.
+- Waltman's review also makes [reference set construction](../methods/reference_set_construction.md) and [citation window selection](../methods/citation_window_selection.md) responsible-metrics requirements because both choices can materially change indicator values.
+- Verified full-text evidence from Meng et al. (2024) adds a credit-allocation guardrail: explicit citation counts can miss hidden full-text credit to incorporated discoveries, so evaluation systems should not treat reference-list counts as a complete measure of intellectual influence.
+- Verified full-text evidence from Wang et al. (2017) adds a novelty guardrail: short citation windows and journal impact factors can bias evaluation against highly novel papers despite their higher long-run hit probability.
+- The Wang evidence now supports split validation pages for [novelty short-window undercount](../validations/novelty_short_window_undercount.md), [journal impact factor novelty bias](../validations/journal_impact_factor_novelty_bias.md), and [novelty-atypicality distinction](../validations/novelty_atypicality_distinction.md).
+- Verified full-text evidence from Wang, Thijs, and Glanzel (2015) adds an interdisciplinarity guardrail: short citation windows can undervalue papers with high variety or disparity even when those dimensions are positively associated with long-term citations.
+- Verified full-text evidence from Haunschild and Bornmann (2017) adds an altmetrics guardrail: policy-document mentions are too sparse and source-limited to use as a mature impact indicator without coverage audits.
+- Verified full-text evidence from Bornmann et al. (2016) adds a target-definition guardrail: impact indicators should name the recipient group or sector, because target-free composite altmetrics make the meaning of measured impact unclear.
+- Verified full-text evidence from Thelwall et al. (2013) and Costas et al. (2015) adds a broader altmetrics guardrail: source-specific online attention can correlate positively with citations, but coverage sparsity, time-window mismatch, and weak associations mean it should not be used as a citation substitute.
+- Thelwall et al. also motivate concrete altmetric guardrails for positive-only denominators, temporal correlation reversal, source coverage utility, author self-mention bias, and non-citing reader traces.
+- Verified full-text evidence from Shen and Barabasi (2014) adds an authorship-credit guardrail: multi-author papers need attribution-aware credit measures because equal fractional counting and author-order rules can misrepresent perceived contribution.
+- Verified full-text evidence from Robinson-Garcia et al. (2020) and Xu et al. (2022) adds a contributorship guardrail: author contribution statements and role-aware measures can expose unequal labor and leadership hidden behind symmetric coauthorship counts.
+- The Robinson-Garcia evidence now separates [gendered contribution-archetype gap](../mechanisms/gendered_contribution_archetype_gap.md), [supporting-archetype career attrition](../mechanisms/supporting_archetype_career_attrition.md), and [contribution-statement role-granularity limit](../validations/contribution_statement_role_granularity_limit.md), which are needed before role-aware metrics are used in assessment.
+- Verified full-text evidence from Piwowar et al. (2018) adds an access-status guardrail: OA status is associated with citation differences, but the categories, timing, and selection mechanisms need to be explicit before OA is used in evaluation.
+- Piwowar et al. also add a detection guardrail: resolver precision and recall affect OA labels, and Bronze OA is legally ambiguous, so access status should be audited before being used as an evaluation adjustment.
+- Verified full-text evidence from Teufel et al. (2006) adds a citation-context guardrail: citation counts can hide heterogeneous citation functions such as method use, contrast, weakness, or neutral background.
+- Verified full-text evidence from Garfield (1972) and West et al. (2010) adds a journal-metric guardrail: journal impact factor and Eigenfactor were designed for journal-level comparison and should not be projected onto articles or people without validation.
+- West et al. also show that [Article Influence versus impact-factor divergence](../validations/article_influence_impact_factor_divergence.md), [Eigenfactor bundle influence](eigenfactor_bundle_influence.md), and [Eigenfactor cost-effectiveness](eigenfactor_cost_effectiveness.md) are task-specific indicator choices rather than universal quality rankings.
+- Verified full-text evidence from Chen et al. (2007) adds a recursive-indicator guardrail: PageRank-like citation scores need [citation-following damping calibration](../methods/citation_following_damping_calibration.md), damping-parameter checks, [PageRank citation-rank limit](../validations/pagerank_citation_rank_limit.md), [review-article out-degree-tail caveat](../validations/review_article_outdegree_tail_caveat.md), age-bias checks, and [Physical Review internal-citation coverage](../validations/physical_review_internal_citation_coverage.md)-style coverage documentation before they are used as evaluation indicators.
+- Verified full-text evidence from Merton (1968) adds a status-bias guardrail: visible eminence can change evaluation of scientific work, so review and metric systems should audit [status-authority evaluation bias](../mechanisms/status_authority_evaluation_bias.md).
+- Petersen et al.'s reputation evidence motivates an additional interface guardrail: [search-result reputation reinforcement](../mechanisms/search_result_reputation_reinforcement.md) should be audited when citation-ranked retrieval affects attention or evaluation.
+- Verified full-text evidence from Chorus and Waltman (2016) adds a metric-gaming guardrail: impact-factor-window journal self-citations can identify journals needing closer audit, but high values are screening signals rather than proof of misconduct.
+- Verified full-text evidence from Ioannidis et al. (2019) adds an author-level guardrail: standardized author indicators should include field annotation, composite/component transparency, self-citation-excluded variants, citation-source concentration checks, author-profile disambiguation audits, and replication-stability checks because extreme self-citation, citation farms, and source artifacts can make metrics spurious.
+- The same paper adds source-window, affiliation, and career-stage guardrails through [Scopus pre-1996 citation truncation](../validations/scopus_pre_1996_citation_truncation.md), [author-metric single-affiliation caveat](../validations/author_metric_single_affiliation_caveat.md), and [early-career author metric sparsity](../validations/early_career_author_metric_sparsity.md).
+- Verified full-text evidence from Waltman (2016) adds a data-source guardrail: citation indicators should document sensitivity to Web of Science, Scopus, Google Scholar, and other source coverage choices.
+- Verified full-text evidence from Ginther et al. (2011), King et al. (2017), and Kozlowski et al. (2022) adds demographic-equity guardrails: funding probabilities, self-citation behavior, topic placement, and citation outcomes can differ across inferred or observed groups, so evaluation systems should audit demographic and topic-composition effects.
+- The Kozlowski evidence now splits this guardrail into [first-author publication frame](../methods/first_author_publication_frame.md), [probabilistic demographic fractional counting](../methods/probabilistic_demographic_fractional_counting.md), [demographic-proxy coverage imputation](../validations/demographic_proxy_coverage_imputation.md), [race-gender topic portfolio maps](../representations/race_gender_topic_portfolio_maps.md), [demographic topic concentration CV](demographic_topic_concentration_cv.md), [topic-choice privilege](../mechanisms/topic_choice_privilege.md), [between-topic citation disadvantage](../mechanisms/between_topic_citation_disadvantage.md), [within-topic citation disadvantage](../mechanisms/within_topic_citation_disadvantage.md), and [demographic parity topic-output counterfactual](../validations/demographic_parity_topic_output_counterfactual.md).
+- Verified full-text evidence from Ioannidis (2005), Simmons et al. (2011), Nosek et al. (2018), and Fang et al. (2012) adds validity-governance guardrails: selective reporting, analytic flexibility, transparency interventions, and retraction-cause coding determine whether visible research outputs are reliable enough for evaluation use.
+- Fang et al. further show why retraction counts need [unretracted misconduct dark figure](../validations/unretracted_misconduct_dark_figure.md) and [misconduct detection infrastructure](../mechanisms/misconduct_detection_infrastructure.md) caveats before being used as governance indicators.
+- Verified full-text evidence from Open Science Collaboration (2015) adds a replication-governance guardrail: evaluation and funding systems need incentives for verification as well as innovation, and replication panels need transparent selection, harmonization, and analysis-audit records.
+- Validation signals such as [retractions](../validations/retractions_self_correction.md), [analytic flexibility](../validations/analytic_flexibility_false_positives.md), and [preregistration](../validations/preregistration_registered_reports.md) should be treated as contextual evidence for metric governance, not as simple penalties or badges.
+- Verified full-text evidence from Moher et al. (2018) applies responsible-metrics governance to hiring, promotion, and tenure: the paper synthesizes six researcher-assessment principles and proposes RIAS dashboards while warning that new indicators need validation, gaming checks, and implementation studies.
+- Moher et al. also add a direct assessment-policy guardrail: DORA-style JIF de-emphasis must extend from article evaluation to scientist evaluation, because journal averages are still used in hiring, promotion, funding, and rewards.
+- Verified full-text evidence from Li et al. (2019) adds a visibility-adjustment guardrail: if citations partly reflect institutional prestige, top-coauthor exposure, and social visibility, career assessment should consider [visibility-adjusted citation assessment](../methods/visibility_adjusted_citation_assessment.md) rather than treating raw counts as intrinsic merit.
+- Verified full-text evidence from Clauset et al. (2015) adds a faculty-market guardrail: placement-derived prestige predicts hiring patterns but conflates merit with status, geography, and other nonmeritocratic factors.
+- Verified full-text evidence from Radicchi et al. (2008) adds a field-normalization guardrail: `c_f` supports fairer citation-performance comparison across fields and years, but [relative citation importance-scope caveat](../validations/relative_citation_importance_scope_caveat.md) prevents normalized citation scores from being treated as universal importance scores.
+
+## Caveats
+
+- Responsible metrics are normative and procedural, not just technical.
+- Good indicator design cannot remove all power and incentive problems in evaluation.
+
+## Links
+
+- [citation impact indicators](citation_impact_indicators.md)
+- [positive altmetric-score conditioning](../methods/positive_altmetric_score_conditioning.md)
+- [altmetric temporal correlation reversal](../validations/altmetric_temporal_correlation_reversal.md)
+- [altmetric coverage utility threshold](altmetric_coverage_utility_threshold.md)
+- [altmetric author self-mention bias](../validations/altmetric_author_self_mention_bias.md)
+- [social-web non-citing reader traces](../mechanisms/social_web_non_citing_reader_traces.md)
+- [metrics support qualitative assessment](../methods/metrics_support_qualitative_assessment.md)
+- [assessment-decision responsibility retention](../methods/assessment_decision_responsibility_retention.md)
+- [prospective evaluation-protocol precommitment](../methods/prospective_evaluation_protocol_precommitment.md)
+- [data-led evaluation inversion](../mechanisms/data_led_evaluation_inversion.md)
+- [metric platform proliferation](../mechanisms/metric_platform_proliferation.md)
+- [global-ranking indicator obsession](../mechanisms/global_ranking_indicator_obsession.md)
+- [h-index threshold assessment misuse](../validations/h_index_threshold_assessment_misuse.md)
+- [impact-factor publication pressure](../mechanisms/impact_factor_publication_pressure.md)
+- [publication-count funding-formula response](../mechanisms/publication_count_funding_formula_response.md)
+- [portfolio-based researcher assessment](../methods/portfolio_based_researcher_assessment.md)
+- [mission-aligned indicator selection](../methods/mission_aligned_indicator_selection.md)
+- [distance-based basic-applied typology](../methods/distance_based_basic_applied_typology.md)
+- [locally relevant research metrics](../validations/locally_relevant_research_metrics.md)
+- [transparent metric construction](../methods/transparent_metric_construction.md)
+- [commercial metric-provider accountability](../validations/commercial_metric_provider_accountability.md)
+- [average-based ranking tail leverage](../validations/average_based_ranking_tail_leverage.md)
+- [evaluated-party data verification](../validations/evaluated_party_data_verification.md)
+- [evaluation-contestation access gap](../validations/evaluation_contestation_access_gap.md)
+- [field-specific indicator suites](../methods/field_specific_indicator_suites.md)
+- [indicator false precision](../validations/indicator_false_precision.md)
+- [indicator systemic effects](../mechanisms/indicator_systemic_effects.md)
+- [indicator lifecycle review](../methods/indicator_lifecycle_review.md)
+- [citation PageRank](citation_pagerank.md)
+- [Google number](google_number.md)
+- [PageRank-citation rank divergence](pagerank_citation_rank_divergence.md)
+- [citing-child PageRank contribution](citing_child_pagerank_contribution.md)
+- [citation-following damping calibration](../methods/citation_following_damping_calibration.md)
+- [Google-number citation scaling check](../validations/google_number_citation_scaling_check.md)
+- [PageRank citation-rank limit](../validations/pagerank_citation_rank_limit.md)
+- [review-article out-degree-tail caveat](../validations/review_article_outdegree_tail_caveat.md)
+- [Physical Review internal-citation coverage](../validations/physical_review_internal_citation_coverage.md)
+- [PageRank damping sensitivity](../validations/pagerank_damping_sensitivity.md)
+- [PageRank age-bias check](../validations/pagerank_age_bias_check.md)
+- [collective credit allocation](collective_credit_allocation.md)
+- [credit metric jockeying risk](../validations/credit_metric_jockeying_risk.md)
+- [Nobel-prize credit validation](../validations/nobel_prize_credit_validation.md)
+- [author contribution statements](../datasets/author_contribution_statements.md)
+- [contribution role vectors](../representations/contribution_role_vectors.md)
+- [contributorship prediction models](../methods/contributorship_prediction_models.md)
+- [gendered contribution-archetype gap](../mechanisms/gendered_contribution_archetype_gap.md)
+- [supporting-archetype career attrition](../mechanisms/supporting_archetype_career_attrition.md)
+- [contribution-statement role-granularity limit](../validations/contribution_statement_role_granularity_limit.md)
+- [lead-role ratio](lead_role_ratio.md)
+- [open access status](../datasets/open_access_status.md)
+- [open access route typology](../datasets/open_access_route_typology.md)
+- [open access detection validation](../validations/open_access_detection_validation.md)
+- [open access citation advantage](../mechanisms/open_access_citation_advantage.md)
+- [citation contexts and functions](../representations/citation_contexts.md)
+- [citation function taxonomies](../representations/citation_function_taxonomies.md)
+- [citation function classification](../methods/citation_function_classification.md)
+- [h index](h_index.md)
+- [h-core publication set](../representations/h_core_publication_set.md)
+- [m-quotient](m_quotient.md)
+- [group h-index](group_h_index.md)
+- [h-index self-citation sensitivity](../validations/h_index_self_citation_sensitivity.md)
+- [journal impact factor](journal_impact_factor.md)
+- [impact factor biased self-citation practices](impact_factor_biased_self_citation_practices.md)
+- [coercive-citation survey linkage](../validations/coercive_citation_survey_linkage.md)
+- [legitimate recent self-citation mechanisms](../mechanisms/legitimate_recent_self_citation_mechanisms.md)
+- [novelty short-window undercount](../validations/novelty_short_window_undercount.md)
+- [journal impact factor novelty bias](../validations/journal_impact_factor_novelty_bias.md)
+- [novelty-atypicality distinction](../validations/novelty_atypicality_distinction.md)
+- [Eigenfactor metrics](eigenfactor_metrics.md)
+- [Eigenfactor Score](eigenfactor_score.md)
+- [Article Influence Score](article_influence_score.md)
+- [Eigenfactor bundle influence](eigenfactor_bundle_influence.md)
+- [Eigenfactor cost-effectiveness](eigenfactor_cost_effectiveness.md)
+- [Article Influence versus impact-factor divergence](../validations/article_influence_impact_factor_divergence.md)
+- [citation percentile indicators](citation_percentile_indicators.md)
+- [mean normalized citation score](mean_normalized_citation_score.md)
+- [relative citation importance-scope caveat](../validations/relative_citation_importance_scope_caveat.md)
+- [author-count citation normalization test](../methods/author_count_citation_normalization_test.md)
+- [citation window selection](../methods/citation_window_selection.md)
+- [reference set construction](../methods/reference_set_construction.md)
+- [disruption index](disruption_index.md)
+- [CD-index time windows](cd_index_time_windows.md)
+- [modified CD index](modified_cd_index.md)
+- [university patent portfolio disruption](university_patent_portfolio_disruption.md)
+- [patent importance measure divergence](../validations/patent_importance_measure_divergence.md)
+- [disruptiveness decline over time](../mechanisms/disruptiveness_decline.md)
+- [high-disruption tail conservation](../mechanisms/high_disruption_tail_conservation.md)
+- [disruption measure validation](../validations/disruption_measure_validation.md)
+- [relative team-impact ratio](relative_team_impact_ratio.md)
+- [self-citation-adjusted team impact](../validations/self_citation_adjusted_team_impact.md)
+- [knowledge-use narrowing](../mechanisms/knowledge_use_narrowing.md)
+- [search-result reputation reinforcement](../mechanisms/search_result_reputation_reinforcement.md)
+- [scientific discovery prediction](../methods/scientific_discovery_prediction.md)
+- [automated predictive-evaluation safeguards](../validations/automated_predictive_evaluation_safeguards.md)
+- [predictable-discovery selection pressure](../mechanisms/predictable_discovery_selection_pressure.md)
+- [risk-averse scientist selection](../mechanisms/risk_averse_scientist_selection.md)
+- [scientific ecosystem diversity](../mechanisms/scientific_ecosystem_diversity.md)
+- [active science-policy experimentation](../validations/active_science_policy_experimentation.md)
+- [metric pluralism and productive specialization](../mechanisms/metric_pluralism_productive_specialization.md)
+- [citation-count currency hierarchy](../mechanisms/citation_count_currency_hierarchy.md)
+- [lagging-indicator prediction limits](../validations/lagging_indicator_prediction_limits.md)
+- [novel-discovery out-of-distribution limit](../validations/novel_discovery_out_of_distribution_limit.md)
+- [feedback-resistant success measures](../methods/feedback_resistant_success_measures.md)
+- [expected-unexpected discovery spectrum](../representations/expected_unexpected_discovery_spectrum.md)
+- [science of science framework](../methods/science_of_science_framework.md)
+- [domain-specific SciSci studies](../methods/domain_specific_scisci_studies.md)
+- [SciSci quasi-experimental policy evaluation](../validations/scisci_quasi_experimental_policy_evaluation.md)
+- [altmetrics](../datasets/altmetrics.md)
+- [social media attention channels](../datasets/social_media_attention_channels.md)
+- [altmetric composite scores](altmetric_composite_scores.md)
+- [target-oriented impact metrics](target_oriented_impact_metrics.md)
+- [altmetric attention timing windows](../methods/altmetric_attention_timing_windows.md)
+- [altmetric coverage sparsity](altmetric_coverage_sparsity.md)
+- [altmetric-citation association](../validations/altmetric_citation_association.md)
+- [altmetric highly cited filtering](../validations/altmetric_highly_cited_filtering.md)
+- [policy attention coverage bias](../validations/policy_attention_coverage_bias.md)
+- [policy mention context audit](../validations/policy_mention_context_audit.md)
+- [alternative-indicator mechanism modeling](../methods/alternative_indicator_mechanism_modeling.md)
+- [auditable external-impact evidence](../validations/auditable_external_impact_evidence.md)
+- [post-academic application-context pressure](../mechanisms/post_academic_application_context.md)
+- [societal-impact comprehensiveness-feasibility tradeoff](../validations/societal_impact_comprehensiveness_feasibility_tradeoff.md)
+- [policy-source mention concentration](policy_source_mention_concentration.md)
+- [review-synthesis policy advantage](../mechanisms/review_synthesis_policy_advantage.md)
+- [generalist-journal policy visibility](../mechanisms/generalist_journal_policy_visibility.md)
+- [policy-mention time-area normalization](../methods/policy_mention_time_area_normalization.md)
+- [policy-mention role reduction](../validations/policy_mention_role_reduction.md)
+- [attention inequality](../mechanisms/attention_inequality.md)
+- [hidden citations](hidden_citations.md)
+- [self-citation rates](self_citation_rates.md)
+- [author-to-author self-citation edges](../representations/author_to_author_self_citation_edges.md)
+- [impact factor biased self-citation practices](impact_factor_biased_self_citation_practices.md)
+- [standardized author citation database](../datasets/standardized_author_citation_database.md)
+- [author citation composite indicator](author_citation_composite_indicator.md)
+- [career-long and single-year author impact](career_long_single_year_author_impact.md)
+- [field-subfield author percentile ranks](field_subfield_author_percentile_ranks.md)
+- [author-position citation components](author_position_citation_components.md)
+- [self-citation-excluded author metrics](self_citation_excluded_author_metrics.md)
+- [citation source concentration ratio](citation_source_concentration_ratio.md)
+- [Scopus author profile disambiguation audit](../validations/scopus_author_profile_disambiguation_audit.md)
+- [composite indicator replication stability](../validations/composite_indicator_replication_stability.md)
+- [Scopus pre-1996 citation truncation](../validations/scopus_pre_1996_citation_truncation.md)
+- [author-metric single-affiliation caveat](../validations/author_metric_single_affiliation_caveat.md)
+- [early-career author metric sparsity](../validations/early_career_author_metric_sparsity.md)
+- [citation database coverage sensitivity](../validations/citation_database_coverage_sensitivity.md)
+- [name-based demographic inference](../methods/name_based_demographic_inference.md)
+- [intersectional topic stratification](../mechanisms/intersectional_topic_stratification.md)
+- [NIH R01 award disparities](../validations/nih_r01_award_disparities.md)
+- [faculty gender demographic turnover](../mechanisms/faculty_gender_demographic_turnover.md)
+- [citation metric gaming](../validations/citation_metric_gaming.md)
+- [novelty penalty](../mechanisms/novelty_penalty.md)
+- [new journal-pair novelty](new_journal_pair_novelty.md)
+- [research strategy surprisal](research_strategy_surprisal.md)
+- [reference-age search depth](reference_age_search_depth.md)
+- [reference-popularity search](reference_popularity_search.md)
+- [interdisciplinary citation delay](../mechanisms/interdisciplinary_citation_delay.md)
+- [interdisciplinarity dimensions](interdisciplinarity_dimensions.md)
+- [policy document mentions](policy_document_mentions.md)
+- [biomedical need-resource misalignment](biomedical_need_resource_misalignment.md)
+- [peer review gatekeeping](../mechanisms/peer_review_gatekeeping.md)
+- [replication reproducibility](../validations/replication_reproducibility.md)
+- [innovation-verification resource balance](../mechanisms/innovation_verification_resource_balance.md)
+- [replication feasibility attrition](../validations/replication_feasibility_attrition.md)
+- [selective reporting and publication bias](../mechanisms/publication_bias_selective_reporting.md)
+- [open science interventions](../validations/open_science_interventions.md)
+- [retraction cause taxonomies](../methods/retraction_cause_taxonomies.md)
+- [unretracted misconduct dark figure](../validations/unretracted_misconduct_dark_figure.md)
+- [misconduct detection infrastructure](../mechanisms/misconduct_detection_infrastructure.md)
+- [research integrity intervention portfolio](../methods/research_integrity_intervention_portfolio.md)
+- [retraction notice transparency](../validations/retraction_notice_transparency.md)
+- [post-retraction citation persistence](post_retraction_citation_persistence.md)
+- [analytic flexibility false positives](../validations/analytic_flexibility_false_positives.md)
+- [preregistration registered reports](../validations/preregistration_registered_reports.md)
+- [retractions self correction](../validations/retractions_self_correction.md)
+- [responsible researcher assessment principles](../methods/responsible_researcher_assessment_principles.md)
+- [responsible indicators for assessing scientists](responsible_indicators_for_assessing_scientists.md)
+- [visibility-adjusted citation assessment](../methods/visibility_adjusted_citation_assessment.md)
+- [faculty prestige-merit conflation](../validations/faculty_prestige_merit_conflation.md)
+- [assessment incentive misalignment](../mechanisms/assessment_incentive_misalignment.md)
+- [research assessment implementation experiments](../validations/research_assessment_implementation_experiments.md)
+- [journal impact factor assessment misuse](../validations/journal_impact_factor_assessment_misuse.md)
+- [research assessment proposal corpus](../datasets/research_assessment_proposal_corpus.md)
+
+- [metric-interpretation expertise gap](../validations/metric_interpretation_expertise_gap.md)
+- [indicator-suite pluralism](../methods/indicator_suite_pluralism.md)
+- [instrument-to-goal metric drift](../mechanisms/instrument_to_goal_metric_drift.md)
+## References
+
+- Hicks, D., Wouters, P., Waltman, L., de Rijcke, S., & Rafols, I. (2015). Bibliometrics: The Leiden Manifesto for research metrics. *Nature*, 520, 429-431. https://doi.org/10.1038/520429a [OpenAlex: W2068452509; Dimensions: pub.1033957063; WoS: unknown]
+- Waltman, L. (2016). A review of the literature on citation impact indicators. *Journal of Informetrics*, 10(2), 365-391. https://doi.org/10.1016/j.joi.2016.02.007 [OpenAlex: W767067438; Dimensions: pub.1051718960; WoS: unknown]
+- Clauset, A., Larremore, D. B., & Sinatra, R. (2017). Data-driven predictions in the science of science. *Science*, 355(6324), 477-480. https://doi.org/10.1126/science.aal4217 [OpenAlex: W2585057539; Dimensions: pub.1083524092; WoS: unknown]
+- Fortunato, S., Bergstrom, C. T., Borner, K., Evans, J. A., Helbing, D., Milojevic, S., Petersen, A. M., Radicchi, F., Sinatra, R., Uzzi, B., Vespignani, A., Waltman, L., Wang, D., & Barabasi, A.-L. (2018). Science of science. *Science*, 359(6379), eaao0185. https://doi.org/10.1126/science.aao0185 [OpenAlex: W2793071066; Dimensions: pub.1101303008; WoS: unknown]
+- Petersen, A. M., Fortunato, S., Pan, R. K., Kaski, K., Penner, O., Rungi, A., Riccaboni, M., Stanley, H. E., & Pammolli, F. (2014). Reputation and impact in academic careers. *Proceedings of the National Academy of Sciences*, 111(43), 15316-15321. https://doi.org/10.1073/pnas.1323111111 [OpenAlex: W2152513188; Dimensions: pub.1035836589; WoS: unknown]
+- Wu, L., Wang, D., & Evans, J. A. (2019). Large teams develop and small teams disrupt science and technology. *Nature*, 566, 378-382. https://doi.org/10.1038/s41586-019-0941-9 [OpenAlex: W2913773162; Dimensions: pub.1112085796; WoS: unknown]
+- Wang, J., Veugelers, R., & Stephan, P. (2017). Bias against novelty in science: A cautionary tale for users of bibliometric indicators. *Research Policy*, 46(8), 1416-1436. https://doi.org/10.1016/j.respol.2017.06.006 [OpenAlex: W3123050710; Dimensions: pub.1090835595; WoS: unknown]
+- Wang, J., Thijs, B., & Glanzel, W. (2015). Interdisciplinarity and impact: Distinct effects of variety, balance, and disparity. *PLOS ONE*, 10(5), e0127298. https://doi.org/10.1371/journal.pone.0127298 [OpenAlex: W363554780; Dimensions: pub.1023200340; WoS: unknown]
+- Haunschild, R., & Bornmann, L. (2017). How many scientific papers are mentioned in policy-related documents? An empirical investigation using Web of Science and Altmetric data. *Scientometrics*, 110, 1209-1216. https://doi.org/10.1007/s11192-016-2237-2 [OpenAlex: W2567946352; Dimensions: pub.1030351359; WoS: unknown]
+- Thelwall, M., Haustein, S., Lariviere, V., & Sugimoto, C. R. (2013). Do altmetrics work? Twitter and ten other social web services. *PLOS ONE*, 8(5), e64841. https://doi.org/10.1371/journal.pone.0064841 [OpenAlex: W2073023209; Dimensions: pub.1028078949; WoS: unknown]
+- Costas, R., Zahedi, Z., & Wouters, P. (2015). Do altmetrics correlate with citations? Extensive comparison of altmetric indicators with citations from a multidisciplinary perspective. *Journal of the Association for Information Science and Technology*, 66(10), 2003-2019. https://doi.org/10.1002/asi.23309 [OpenAlex: W2164277894; Dimensions: pub.1001115574; WoS: unknown]
+- Teufel, S., Siddharthan, A., & Tidhar, D. (2006). Automatic classification of citation function. *Proceedings of the 2006 Conference on Empirical Methods in Natural Language Processing*, 103-110. https://doi.org/10.3115/1610075.1610091 [OpenAlex: W2088336913; Dimensions: pub.1099244275; WoS: unknown]
+- Shen, H.-W., & Barabasi, A.-L. (2014). Collective credit allocation in science. *Proceedings of the National Academy of Sciences*, 111(34), 12325-12330. https://doi.org/10.1073/pnas.1401992111 [OpenAlex: W2037997493; Dimensions: pub.1014325139; WoS: unknown]
+- Piwowar, H., Priem, J., Lariviere, V., Alperin, J. P., Matthias, L., Norlander, B., Farley, A., West, J., & Haustein, S. (2018). The state of OA: A large-scale analysis of the prevalence and impact of Open Access articles. *PeerJ*, 6, e4375. https://doi.org/10.7717/peerj.4375 [OpenAlex: W2741809807; Dimensions: pub.1101032124; WoS: unknown]
+- Meng, X., Varol, O., & Barabasi, A.-L. (2024). Hidden citations obscure true impact in science. *PNAS Nexus*, 3(5), pgae155. https://doi.org/10.1093/pnasnexus/pgae155 [OpenAlex: W4396694003; Dimensions: pub.1171389234; WoS: unknown]
+- Garfield, E. (1972). Citation analysis as a tool in journal evaluation. *Science*, 178(4060), 471-479. https://doi.org/10.1126/science.178.4060.471 [OpenAlex: W2053549370; Dimensions: pub.1062505982; WoS: unknown]
+- West, J. D., Bergstrom, T. C., & Bergstrom, C. T. (2010). The Eigenfactor Metrics: A Network Approach to Assessing Scholarly Journals. *College & Research Libraries*, 71(3), 236-244. https://doi.org/10.5860/0710236 [OpenAlex: W1993001003; Dimensions: pub.1002494331; WoS: unknown]
+- Chorus, C., & Waltman, L. (2016). A large-scale analysis of impact factor biased journal self-citations. *PLOS ONE*, 11(8), e0161021. https://doi.org/10.1371/journal.pone.0161021 [OpenAlex: W2516374594; Dimensions: pub.1009206842; WoS: unknown]
+- Ioannidis, J. P. A., Baas, J., Klavans, R., & Boyack, K. W. (2019). A standardized citation metrics author database annotated for scientific field. *PLOS Biology*, 17(8), e3000384. https://doi.org/10.1371/journal.pbio.3000384 [OpenAlex: W2968900048; Dimensions: pub.1120285279; WoS: unknown]
+- Moher, D., Naudet, F., Cristea, I. A., Miedema, F., Ioannidis, J. P. A., & Goodman, S. N. (2018). Assessing scientists for hiring, promotion, and tenure. *PLOS Biology*, 16(3), e2004089. https://doi.org/10.1371/journal.pbio.2004089 [OpenAlex: W2794944797; Dimensions: pub.1101831393; SciSciNet: W2794944797; WoS: unknown]
+- Li, W., Aste, T., Caccioli, F., & Livan, G. (2019). Early coauthorship with top scientists predicts success in academic careers. *Nature Communications*, 10, 5170. https://doi.org/10.1038/s41467-019-13130-4 [OpenAlex: W2949684159; Dimensions: pub.1122584827; WoS: unknown]
+
+## Metadata
+
+- Concept ID: `responsible_metrics`
+- Category: `measures`
+- Status: `full_text_seed`
+- First seen paper: Hicks et al. (2015) (2015)
+- Latest seen paper: Meng et al. (2024) (2024)
+- Primary reference DOI: `10.1038/520429a`
+- OpenAlex ID: `W2068452509`
+- Aliases: Leiden Manifesto; research evaluation; metric governance

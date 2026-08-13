@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use SciSci Wiki, please cite this repository."
+title: "SciSci Wiki: A linked concept collection for the science of science"
+type: dataset
+authors:
+  - family-names: "Nascimento Silva"
+    given-names: "Filipi"
+repository-code: "https://github.com/filipinascimento/scisci-wiki"
+url: "https://filipinascimento.github.io/scisci-wiki/"
+license: MIT
+date-released: 2026-08-13

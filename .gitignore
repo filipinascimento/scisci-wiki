@@ -1,0 +1,5 @@
+_site/
+node_modules/
+.pagefind/
+*.pyc
+__pycache__/
