@@ -50,6 +50,7 @@ OpenAlex is an open scholarly index covering works, authors, sources, institutio
 - The current ingestion workflow uses Crossref/source-seed fallback because the OpenAlex public API returned HTTP 429 on June 30, 2026; the local snapshot remains the preferred source for verified OpenAlex IDs.
 - Verified full-text evidence from Piwowar et al. (2018) provides the conceptual basis for interpreting OA fields in work-level scholarly indexes: OA status should preserve route, license, and source distinctions rather than collapse access to a simple binary.
 - OA fields in OpenAlex should be interpreted through [open access route typology](open_access_route_typology.md), [open access resolver workflows](../methods/open_access_resolver_workflows.md), and [open access detection validation](../validations/open_access_detection_validation.md), because best-open URLs and route labels are snapshot-dependent.
+- Verified full-text evidence from Lin et al. (2026) uses OpenAlex citation and reference links at 49-million-journal-article scale; its task-specific cohorts are documented as the [OpenAlex disruption-decomposition corpus](openalex_disruption_decomposition_corpus.md).
 
 ## Caveats
 
@@ -99,6 +100,9 @@ OpenAlex is an open scholarly index covering works, authors, sources, institutio
 - [citation database coverage sensitivity](../validations/citation_database_coverage_sensitivity.md)
 - [author name disambiguation](../methods/author_name_disambiguation.md)
 - [topic models](../methods/topic_models.md)
+- [OpenAlex disruption-decomposition corpus](openalex_disruption_decomposition_corpus.md)
+- [local displacement factor](../measures/local_displacement_factor.md)
+- [relative predecessor dominance factor](../measures/relative_predecessor_dominance_factor.md)
 
 - [work-centered scholarly entity model](../representations/work_centered_scholarly_entity_model.md)
 - [OpenAlex source coverage boundary](../validations/openalex_source_coverage_boundary.md)
@@ -107,6 +111,7 @@ OpenAlex is an open scholarly index covering works, authors, sources, institutio
 - Priem, J., Piwowar, H., & Orr, R. (2022). OpenAlex: A fully-open index of scholarly works, authors, venues, institutions, and concepts. *arXiv*. https://doi.org/10.48550/arXiv.2205.01833 [OpenAlex: W4229010617; Dimensions: pub.1147626509; WoS: unknown]
 - Piwowar, H., Priem, J., Lariviere, V., Alperin, J. P., Matthias, L., Norlander, B., Farley, A., West, J., & Haustein, S. (2018). The state of OA: A large-scale analysis of the prevalence and impact of Open Access articles. *PeerJ*, 6, e4375. https://doi.org/10.7717/peerj.4375 [OpenAlex: W2741809807; Dimensions: pub.1101032124; WoS: unknown]
 - Fortunato, S., Bergstrom, C. T., Borner, K., Evans, J. A., Helbing, D., Milojevic, S., Petersen, A. M., Radicchi, F., Sinatra, R., Uzzi, B., Vespignani, A., Waltman, L., Wang, D., & Barabasi, A.-L. (2018). Science of science. *Science*, 359(6379), eaao0185. https://doi.org/10.1126/science.aao0185 [OpenAlex: W2793071066; Dimensions: pub.1101303008; WoS: unknown]
+- Lin, Y., Li, L., & Wu, L. (2026). The Disruption Index measures displacement between a paper and its most cited reference. *Quantitative Science Studies*, 7, 229-239. https://doi.org/10.1162/QSS.a.409 [OpenAlex: W7119230500; Dimensions: unknown; WoS: unknown]
 
 ## Metadata
 
@@ -114,7 +119,7 @@ OpenAlex is an open scholarly index covering works, authors, sources, institutio
 - Category: `datasets`
 - Status: `full_text_seed`
 - First seen paper: Priem et al. (2022) (2022)
-- Latest seen paper: Priem et al. (2022) (2022)
+- Latest seen paper: Lin et al. (2026) (2026)
 - Primary reference DOI: `10.48550/arXiv.2205.01833`
 - OpenAlex ID: `W4229010617`
 - Aliases: open scholarly index; OpenAlex snapshot

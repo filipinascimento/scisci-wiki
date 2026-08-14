@@ -4,7 +4,7 @@
 
 SciSci Wiki is a growing, linked collection of concepts from the science of science and adjacent research. It covers mechanisms, measures, methods, representations, datasets, hypotheses, validations, and consequences.
 
-The current release contains 2,820 concept pages grounded in verified paper full text. Each page records a concise definition, canonical form, operationalization, evidence, caveats, related concepts, and APA-like references with persistent scholarly identifiers when available.
+The current release contains 2,825 concept pages grounded in verified paper full text, with represented sources through 2026. Each page records a concise definition, canonical form, operationalization, evidence, caveats, related concepts, and APA-like references with persistent scholarly identifiers when available.
 
 ## What is included
 

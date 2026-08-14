@@ -326,6 +326,8 @@ function validThemeConcepts(theme, byId) {
 function renderHome(rows, byId, parsedById) {
   const currentOutput = "index.html";
   const counts = Object.fromEntries(Object.keys(categoryMeta).map((category) => [category, rows.filter((row) => row.category === category).length]));
+  const representedYears = rows.flatMap((row) => [row.first_seen_year, row.latest_seen_year]).map(Number).filter(Number.isFinite);
+  const literatureSpan = `${Math.min(...representedYears)}–${Math.max(...representedYears)}`;
   const featured = ["cumulative_advantage", "disruption_index", "coauthorship_networks", "scientific_mobility", "preregistration_registered_reports", "openalex"]
     .map((id) => byId.get(id)).filter(Boolean);
   const body = `<main id="main-content">
@@ -343,7 +345,7 @@ function renderHome(rows, byId, parsedById) {
       <div class="hero-facts" aria-label="Collection summary">
         <span><strong>${rows.length.toLocaleString("en-US")}</strong> concepts</span>
         <span><strong>${Object.keys(categoryMeta).length}</strong> categories</span>
-        <span><strong>1963–2024</strong> literature span</span>
+        <span><strong>${literatureSpan}</strong> sources currently represented</span>
       </div>
     </div>
   </section>

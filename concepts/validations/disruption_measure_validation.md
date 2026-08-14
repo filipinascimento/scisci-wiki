@@ -46,6 +46,8 @@ Disruption measure validation checks whether citation-network disruption scores 
 - Park et al. also add text-based corroboration through title-word diversity, title-combination novelty, and changes in verbs associated with creation, discovery, improvement, application, and assessment.
 - Park et al. also report replication across JSTOR, APS, MAG, and PubMed corpora, high-quality subset checks, normalized CD-index variants, and publication/citation/authorship practice controls.
 - Verified full-text evidence from Funk and Owen-Smith (2017) adds patent-specific validation layers: [patent disruption face-validity cases](patent_disruption_face_validity_cases.md), [patent importance measure divergence](patent_importance_measure_divergence.md), and [CD-index undefined cases](cd_index_undefined_cases.md).
+- Verified full-text evidence from Lin et al. (2026) adds a mathematical decomposition, empirical Zipf calibration of predecessor-citation concentration, and a component-conditioned [D-index reference-length invariance](d_index_reference_length_invariance.md) test.
+- Their interpretation also adds an application boundary: rare high-disruption outcomes require the [disruption portfolio sample-size guardrail](../methods/disruption_portfolio_sample_size_guardrail.md).
 
 ## Caveats
 
@@ -85,12 +87,17 @@ Disruption measure validation checks whether citation-network disruption scores 
 - [citation networks](../representations/citation_networks.md)
 - [responsible metrics](../measures/responsible_metrics.md)
 - [citation context windows](../representations/citation_context_windows.md)
+- [local displacement factor](../measures/local_displacement_factor.md)
+- [relative predecessor dominance factor](../measures/relative_predecessor_dominance_factor.md)
+- [D-index reference-length invariance](d_index_reference_length_invariance.md)
+- [disruption portfolio sample-size guardrail](../methods/disruption_portfolio_sample_size_guardrail.md)
 
 ## References
 
 - Wu, L., Wang, D., & Evans, J. A. (2019). Large teams develop and small teams disrupt science and technology. *Nature*, 566, 378-382. https://doi.org/10.1038/s41586-019-0941-9 [OpenAlex: W2913773162; Dimensions: pub.1112085796; WoS: unknown]
 - Funk, R. J., & Owen-Smith, J. (2017). A dynamic network measure of technological change. *Management Science*, 63(3), 791-817. https://doi.org/10.1287/mnsc.2015.2366 [OpenAlex: W2303284028; Dimensions: pub.1064718099; WoS: unknown]
 - Park, M., Leahey, E., & Funk, R. J. (2023). Papers and patents are becoming less disruptive over time. *Nature*, 613, 138-144. https://doi.org/10.1038/s41586-022-05543-x [OpenAlex: W4313545395; Dimensions: pub.1154226028; WoS: unknown]
+- Lin, Y., Li, L., & Wu, L. (2026). The Disruption Index measures displacement between a paper and its most cited reference. *Quantitative Science Studies*, 7, 229-239. https://doi.org/10.1162/QSS.a.409 [OpenAlex: W7119230500; Dimensions: unknown; WoS: unknown]
 
 ## Metadata
 
@@ -98,7 +105,7 @@ Disruption measure validation checks whether citation-network disruption scores 
 - Category: `validations`
 - Status: `full_text_seed`
 - First seen paper: Funk and Owen-Smith (2017) (2017)
-- Latest seen paper: Park et al. (2023) (2023)
+- Latest seen paper: Lin et al. (2026) (2026)
 - Primary reference DOI: `10.1038/s41586-019-0941-9`
 - OpenAlex ID: `W2913773162`
 - Dimensions ID: `pub.1112085796`

@@ -40,11 +40,14 @@ The disruption index measures whether later work cites a focal paper without als
 - Wu et al. validate the measure against several external checks, summarized in [disruption measure validation](../validations/disruption_measure_validation.md): Nobel Prize papers, expert-nominated disruptive/developing examples, review articles, explicit author-name linkage to prior work, and title/abstract language associated with disrupting versus developing work.
 - The verified text shows why the index should be interpreted structurally: it captures how later work reconfigures citation attention around predecessors, not whether the focal work is intrinsically valuable.
 - Verified full-text evidence from Park et al. (2023) uses CD5 to document [disruptiveness decline over time](../mechanisms/disruptiveness_decline.md) and [high-disruption tail conservation](../mechanisms/high_disruption_tail_conservation.md) across papers and patents.
+- Verified full-text evidence from Lin et al. (2026) decomposes the index as `D_p ≈ d_p / (1 + b_p)`: the [local displacement factor](local_displacement_factor.md) sets direction, while the [relative predecessor dominance factor](relative_predecessor_dominance_factor.md) suppresses magnitude when a canonical reference remains dominant.
+- Lin et al. also provide [D-index reference-length invariance](../validations/d_index_reference_length_invariance.md), finding no residual reference-count effect after conditioning on the two components in their reported OpenAlex analysis.
 
 ## Caveats
 
 - Sensitive to citation windows and reference coverage.
 - A high score is not automatically good, and low disruption can reflect valuable consolidation.
+- Highly disruptive outcomes are rare, so individual-level comparisons require the [disruption portfolio sample-size guardrail](../methods/disruption_portfolio_sample_size_guardrail.md).
 
 ## Links
 
@@ -75,12 +78,18 @@ The disruption index measures whether later work cites a focal paper without als
 - [knowledge-use narrowing](../mechanisms/knowledge_use_narrowing.md)
 - [citation networks](../representations/citation_networks.md)
 - [sciscinet v2](../datasets/sciscinet_v2.md)
+- [local displacement factor](local_displacement_factor.md)
+- [relative predecessor dominance factor](relative_predecessor_dominance_factor.md)
+- [D-index reference-length invariance](../validations/d_index_reference_length_invariance.md)
+- [disruption portfolio sample-size guardrail](../methods/disruption_portfolio_sample_size_guardrail.md)
+- [OpenAlex disruption-decomposition corpus](../datasets/openalex_disruption_decomposition_corpus.md)
 
 ## References
 
 - Funk, R. J., & Owen-Smith, J. (2017). A dynamic network measure of technological change. *Management Science*, 63(3), 791-817. https://doi.org/10.1287/mnsc.2015.2366 [OpenAlex: W2303284028; Dimensions: pub.1064718099; WoS: unknown]
 - Wu, L., Wang, D., & Evans, J. A. (2019). Large teams develop and small teams disrupt science and technology. *Nature*, 566, 378-382. https://doi.org/10.1038/s41586-019-0941-9 [OpenAlex: W2913773162; Dimensions: pub.1112085796; WoS: unknown]
 - Park, M., Leahey, E., & Funk, R. J. (2023). Papers and patents are becoming less disruptive over time. *Nature*, 613, 138-144. https://doi.org/10.1038/s41586-022-05543-x [OpenAlex: W4313545395; Dimensions: pub.1154226028; WoS: unknown]
+- Lin, Y., Li, L., & Wu, L. (2026). The Disruption Index measures displacement between a paper and its most cited reference. *Quantitative Science Studies*, 7, 229-239. https://doi.org/10.1162/QSS.a.409 [OpenAlex: W7119230500; Dimensions: unknown; WoS: unknown]
 
 ## Metadata
 
@@ -88,7 +97,7 @@ The disruption index measures whether later work cites a focal paper without als
 - Category: `measures`
 - Status: `full_text_seed`
 - First seen paper: Funk and Owen-Smith (2017) (2017)
-- Latest seen paper: Park et al. (2023) (2023)
+- Latest seen paper: Lin et al. (2026) (2026)
 - Primary reference DOI: `10.1287/mnsc.2015.2366`
 - OpenAlex ID: `W2303284028`
 - Aliases: CD index; disruptiveness score; consolidation score
